@@ -1,0 +1,14 @@
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\bin\Debug\net8.0\03OperadoresDeAtribuicao.exe
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\bin\Debug\net8.0\03OperadoresDeAtribuicao.deps.json
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\bin\Debug\net8.0\03OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\bin\Debug\net8.0\03OperadoresDeAtribuicao.dll
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\bin\Debug\net8.0\03OperadoresDeAtribuicao.pdb
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\03OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\03OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\03OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\03OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\03OperadoresDeAtribuicao.dll
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\refint\03OperadoresDeAtribuicao.dll
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\03OperadoresDeAtribuicao.pdb
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\03OperadoresDeAtribuicao.genruntimeconfig.cache
+C:\Users\rafae\CursoC#\LogicaDeProgramacao\03OperadoresDeAtribuicao\obj\Debug\net8.0\ref\03OperadoresDeAtribuicao.dll

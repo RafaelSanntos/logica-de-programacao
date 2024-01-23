@@ -1,0 +1,14 @@
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\bin\Debug\net8.0\01EntradaDeDados.exe
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\bin\Debug\net8.0\01EntradaDeDados.deps.json
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\bin\Debug\net8.0\01EntradaDeDados.runtimeconfig.json
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\bin\Debug\net8.0\01EntradaDeDados.dll
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\bin\Debug\net8.0\01EntradaDeDados.pdb
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\01EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\01EntradaDeDados.AssemblyInfoInputs.cache
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\01EntradaDeDados.AssemblyInfo.cs
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\01EntradaDeDados.csproj.CoreCompileInputs.cache
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\01EntradaDeDados.dll
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\refint\01EntradaDeDados.dll
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\01EntradaDeDados.pdb
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\01EntradaDeDados.genruntimeconfig.cache
+c:\Users\rafae\CursoC#\LogicaDeProgramacao\01EntradaDeDados\obj\Debug\net8.0\ref\01EntradaDeDados.dll
