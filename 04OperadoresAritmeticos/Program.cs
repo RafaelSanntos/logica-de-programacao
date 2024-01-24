@@ -6,7 +6,8 @@ namespace _04OperadoresAritmeticos
     {
         static void Main(string[] args)
         {
-            OperadoresAritmeticos.Aritmeticos();
+            // OperadoresAritmeticos.Aritmeticos();
+            OperadoresAritmeticos.FormulaDeBhaskara();
         }
     }
 }

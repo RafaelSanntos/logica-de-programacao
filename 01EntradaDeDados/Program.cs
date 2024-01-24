@@ -6,7 +6,8 @@ namespace _01EntradaDeDados
     {
         static void Main()
         {
-          EntradaDeDados.Entrada();
+          // EntradaDeDados.Entrada();
+          EntradaDeDados.VetorDeString();
         }
     }
 }
